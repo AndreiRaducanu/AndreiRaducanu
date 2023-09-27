@@ -18,7 +18,8 @@
 development_stack = {
     "languages": ["Python", "JavaScript", "HTML", "CSS", "C++"],
     "libraries": ["Pandas", "Beautiful Soup", "Requests"],
-    "tools": ["Visual Studio Code", "Git", "Docker"]
+    "tools": ["Visual Studio Code", "Git", "Docker"],
+    "frameworks": ["Flask", "Scrapy", "FastAPI"]
 }
 ```
 
